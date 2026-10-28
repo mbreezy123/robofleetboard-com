@@ -1,0 +1,2 @@
+robot_id,nickname,make_model,site,area_or_floor,status,status_since,assigned_to,last_issue,last_repair_date,repaired_by,next_service_due,uptime_last_30d_pct,notes
+EXAMPLE-01,(sample row; delete),[make / model],[site name],[floor or zone],down,[date],[operator name],[short description],[date],[vendor or in-house],[date],[% from your logs],[anything else]
